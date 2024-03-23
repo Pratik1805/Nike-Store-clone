@@ -11,7 +11,7 @@ Currently, two official plugins are available:
    https://nike-store-clone-mu.vercel.app/
 
    
-⚙️ Tech Stack
+# ⚙️ Tech Stack
       Tailwind CSS
       React.js
 
@@ -39,3 +39,6 @@ Running the Project
 
 npm start
 Open http://localhost:5173 in your browser to view the project.
+
+
+Thanks to JavaScript Mastery for guidance
